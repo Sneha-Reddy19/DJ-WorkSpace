@@ -1,0 +1,52 @@
+
+#_title
+{
+    color: orangered;
+    text-shadow: yellow;
+    font-size: 45px;
+    text-shadow: yellow 5px 0px 0px;
+}
+
+#_login_title
+{
+    color: blue;
+    font-size: 40px;
+    border-radius: 15px;
+}
+
+#forgotpwd
+{
+    background-color: orange;
+    border-color: orangered;
+    border-radius: 15px;
+    color: black;
+    font-size: 20px;
+
+}
+
+#newuser
+{
+    background-color: blue;
+    border-color: aqua;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#loginbutton
+{
+    background-color: aquamarine;
+    size: 8px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+#u_name
+{
+    color: red;
+}
+
+#pwd
+{
+    color: red;
+}
