@@ -19,5 +19,5 @@ from App7 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('index/', views.ShowIndex),
+    path('index/', views.showIndex),
 ]

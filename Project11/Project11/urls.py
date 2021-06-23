@@ -19,6 +19,6 @@ from App11 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('index/', views.showIndex),
+    path('index/',views.showIndex),
     path('logincheck/',views.loginCheck),
 ]

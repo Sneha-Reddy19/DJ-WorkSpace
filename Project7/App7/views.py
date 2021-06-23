@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-def ShowIndex(request):
+def showIndex(request):
     student_info = {"data":
                     [
                         {"idno":101,"name":"Ravi","marks":[89,56,74,15,45,56]},
